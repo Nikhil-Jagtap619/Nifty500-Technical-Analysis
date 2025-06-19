@@ -40,7 +40,7 @@ You can export this to Excel for analysis. (there is a .csv file that has 300 ni
 ## 📁 Files
 
 - `nifty500.ipynb` – Python script to simulate the strategy
-- `ind_nifty500list.xlsx` – Excel output with trades and results
+- `ind_nifty500list.xlsx` – Company list with other information
 - `Trading_Strategy_Explanation.pdf` – Simple explanation of strategy for non-technical users
 
 ---
@@ -74,7 +74,7 @@ You can export this to Excel for analysis. (there is a .csv file that has 300 ni
 
 ## 👨‍💻 Created By
 
-Nikhil – Technical Analysis Intern at Paterson Securities  
+Nikhil J – Technical Analyst Intern at Paterson Securities  
 📅 June 2025
 
 ---
