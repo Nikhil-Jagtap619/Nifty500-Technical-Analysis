@@ -33,7 +33,7 @@ The script generates a table with each simulated trade:
 |---------|------------|-------------|-----------|------------|---------|-----------|-------------|
 | TCS.NS  | 2021-06-01 | ₹102.00     | 2021-06-10| ₹112.20    | +10.0%  | 9         | Target Hit  |
 
-You can export this to Excel for analysis.
+You can export this to Excel for analysis. (there is a .csv file that has 300 nifty data with same format)
 
 ---
 
@@ -41,7 +41,7 @@ You can export this to Excel for analysis.
 
 - `nifty500.ipynb` – Python script to simulate the strategy
 - `ind_nifty500list.xlsx` – Excel output with trades and results
-- `Trading_Strategy_Explanation.docx` – Simple explanation of strategy for non-technical users
+- `Trading_Strategy_Explanation.pdf` – Simple explanation of strategy for non-technical users
 
 ---
 
